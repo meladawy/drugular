@@ -1,0 +1,4 @@
+name = Druguler
+description = Provide Angular Integration within Drupal interface
+core = 7.x 
+
